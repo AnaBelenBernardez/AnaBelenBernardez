@@ -6,9 +6,9 @@
 Soy una programadora Junior Full Stack.
 _I'm a Junior Full Stack Developer._
 
-Apasionada del arte en todas sus formas: Desde pintura, arquitectura, música hasta videojuegos y diseño gráfico. Estoy centrada en desarrollar mis habilidades en programación web. Mi objetivo es crear experiencias web atractivas y emocionantes que cautiven a las usuarias.
+Apasionada del arte en todas sus formas: Desde pintura, arquitectura, música hasta videojuegos y diseño gráfico. Estoy centrada en desarrollar mis habilidades en programación web. Mi objetivo es crear experiencias web atractivas y emocionantes que cautiven a las usuarias, diversas y accesibles.
 
-_Passionate about art in all its forms: From painting, architecture, music to video games and graphic design. I'm focused on developing my web programming skills. My goal is to create engaging and exciting web experiences that attract users._
+_Passionate about art in all its forms: From painting, architecture, music to video games and graphic design. I'm focused on developing my web programming skills. My goal is to create engaging and exciting web experiences that are captivating, diverse and accessible._
 
 ## ⚡ Skills:
 * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
