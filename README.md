@@ -1,4 +1,3 @@
-
 # Hola, soy Ana 👩‍💻
 
 
@@ -6,11 +5,14 @@
 Soy una programadora Junior Full Stack.
 _I'm a Junior Full Stack Developer._
 
-Apasionada del arte en todas sus formas: Desde pintura, arquitectura, música hasta videojuegos y diseño gráfico. Estoy centrada en mejorar y ampliar mis habilidades en desarrollo web. Mi objetivo es crear experiencias web atractivas y emocionantes, diversas, accesibles e inclusivas.
+Quiero crear aplicaciones web emocionantes, comprometidas con la experiencia de usuario y accesibles; mejorar mis habilidades y aportar soluciones innovadoras y creativas junto con mis compañeros de equipo.
+_I want to create exciting web applications, committed to the user experience and accessibility; improve my skills, and provide innovative and creative solutions alongside my teammates._
 
-_Passionate about art in all its forms: From painting, architecture, music to video games and graphic design. I'm focused on improving and expanding my web development skills. My goal is to create engaging and exciting web experiences that are diverse, accessible and inclusive._
+* 👩‍💻 Enfoque en desarrollo front-end. _Focused on front-end development._
+* 🎨 Amante del arte y el diseño. _Lover of art and design._
+* 🎮 Apasionada por los videojuegos. _Passionate about video games._
 
-## ⚡ Skills:
+## ⚡ Tech Skills:
 * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 * ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
