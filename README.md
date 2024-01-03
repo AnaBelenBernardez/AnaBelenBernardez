@@ -2,7 +2,7 @@
 
 
 ## 👽 About Me:
-Soy una programadora Junior Full Stack.
+Soy una programadora Full Stack Junior.
 _I'm a Junior Full Stack Developer._
 
 Quiero crear aplicaciones web emocionantes, comprometidas con la experiencia de usuario y accesibles; mejorar mis habilidades y aportar soluciones innovadoras y creativas junto con mis compañeros de equipo.
