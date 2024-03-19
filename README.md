@@ -11,7 +11,7 @@ _I want to create exciting web applications, committed to the user experience an
 
 * 👩‍💻 Enfoque en desarrollo front-end. _Focused on front-end development._
 * 🚀 Trabajo en equipo en un entorno ágil y Scrum Master. _Teamwork in an agile environment and Scrum Master._
-* 🎨 Amante del arte y el diseño. _Lover of art and design._
+* 🎨 Amante del arte, diseño y música. _Lover of art, design and music._
 * 🎮 Apasionada por los videojuegos. _Passionate about video games._
 
 ## ⚡ Tech Skills:
