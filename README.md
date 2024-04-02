@@ -1,8 +1,5 @@
 # Hola, soy Ana Belén 👩‍💻
 
-
-
-## 👽 About Me:
 Soy una programadora Full Stack.
 _I'm a Full Stack Developer._
 
@@ -14,10 +11,11 @@ _I want to create exciting web applications, committed to the **user experience 
 * 🎨 Amante del arte, diseño y música. _Lover of art, design and music._
 * 🎮 Apasionada por los videojuegos. _Passionate about video games._
 
-## ⚡ Tech Skills:
+## 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=figma,ps,js,html,css,mysql,nodejs,postman,react,github,git,vscode,gitlab,tailwind,npm,notion,mongodb,powershell&perline=9" />
 </p>
 
-## 🚀 Links:
+## 
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anabelenbernardez/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anabelenbernardez@gmail.com)
