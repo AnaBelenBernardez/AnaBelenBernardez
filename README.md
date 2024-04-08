@@ -23,3 +23,4 @@ _I want to create exciting web applications, committed to the **user experience 
     <a href="https://www.linkedin.com/in/anabelenbernardez/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
     <a href="mailto:anabelenbernardez@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 </div>
+
