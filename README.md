@@ -13,7 +13,7 @@ _I want to create exciting web applications, committed to the **user experience 
 
 ## 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,ps,js,html,css,mysql,nodejs,postman,react,github,git,vscode,gitlab,tailwind,npm,notion,mongodb,powershell&perline=9" />
+    <img src="https://skillicons.dev/icons?i=typescript,js,react,vite,tailwind,figma,flutter,laravel,php,nodejs,postgresql,mysql,mongodb,materialui,html,css,docker,git,github,gitlab,postman,npm,vscode,notion,powershell,ps&perline=9" />
 </p>
 
 ##
